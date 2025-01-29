@@ -1,3 +1,4 @@
+Bem vindo ao o perfil de Diego Alves!
 <div>
    <a href="https://github.com/diegoalvesdg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoalvesdg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
